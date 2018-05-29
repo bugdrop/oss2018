@@ -1,0 +1,12 @@
+---
+title           : Aurelijus Stanislovaitis
+type            : participant-onsite
+job_title       : sectest consultant
+image           : https://hackcon.org/uploads/347/0/visma%202.png
+twitter         : 
+sessions        :
+  - Docker and Kubernetes Threat Modeling Cheat Sheet
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+---
+
+<!-- put more details about participant here -->
