@@ -1,6 +1,6 @@
 ---
 title           : Aurelijus Stanislovaitis
-type            : participant-onsite
+type            : participant
 job_title       : sectest consultant
 image           : https://hackcon.org/uploads/347/0/visma%202.png
 twitter         : 
