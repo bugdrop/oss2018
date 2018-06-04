@@ -20,15 +20,11 @@ sessions        :
   - Threat model cheat sheets
   - API Threat Modeling Cheat Sheet
   - Attack chains as TM technique
-  - Back to the future with Threat Modeling
-  - Update MSTG with changes in Android 8 (Oreo)
   - Docker and Kubernetes Threat Modeling Cheat Sheet
-  - How to Threat Model Features with Questionnaires
   - Federated Login with Social Platforms Threat Modeling Cheat Sheet
   - Thinking in Graphs
   - Gamifying Security Dashboards
   - Update MSTG with changes in iOS 11
-  - Update MSTG with changes in Android 8 (Oreo)
   - Application Security Verification Standard
   - Using maps to define how to capture, detect and prevent 6 real-world security incidents
   - AWS Lambda Security
@@ -36,7 +32,6 @@ sessions        :
   - How to scale Threat Modeling.
   - Securing AWS S3 Buckets
   - Owasp Testing Guide v5
-  - How to Threat Model Features with Questionnaires
   - Security Crowdsourcing
   
   
