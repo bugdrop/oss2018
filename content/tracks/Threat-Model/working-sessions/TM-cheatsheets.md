@@ -42,4 +42,4 @@ DO: If you are stuck, either look at the entry and exit points OR let the Subjec
 
 DON’T: Go beyond/deeper than design level.
 
-DON’T: Threat threat modeling like a kitchen sink, don’t try to put everything in.
+DON’T: Treat threat modeling like a kitchen sink, don’t try to put everything in.
